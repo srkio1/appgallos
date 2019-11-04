@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppGallos", "AppGallos\AppGallos.csproj", "{0F234A95-25F8-4DDA-9F1F-0F1E3054079E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppGallos.Android", "AppGallos.Android\AppGallos.Android.csproj", "{A1F363E0-6208-4846-B9A9-0FA88EC82E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F234A95-25F8-4DDA-9F1F-0F1E3054079E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F234A95-25F8-4DDA-9F1F-0F1E3054079E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F234A95-25F8-4DDA-9F1F-0F1E3054079E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F234A95-25F8-4DDA-9F1F-0F1E3054079E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F363E0-6208-4846-B9A9-0FA88EC82E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F363E0-6208-4846-B9A9-0FA88EC82E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F363E0-6208-4846-B9A9-0FA88EC82E81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A1F363E0-6208-4846-B9A9-0FA88EC82E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F363E0-6208-4846-B9A9-0FA88EC82E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F363E0-6208-4846-B9A9-0FA88EC82E81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6C1B44-1EA2-431C-B15A-BD04D44A64FD}
+	EndGlobalSection
+EndGlobal
