@@ -13,7 +13,7 @@ namespace AppGallos
         {
             InitializeComponent();
 
-            MainPage = new AppGallos.MainPage();
+            MainPage = new AppGallos.indexGallos();
         }
 
         protected override void OnStart()
